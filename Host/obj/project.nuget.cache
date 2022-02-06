@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "viep9aLXsVWRf6t0WDHMwpl7tQ9CRBT8yqLEXVFuuO6obgLfKPW3WSPfCFiZKh4bFe0aBq5jFQbJP1+iq6+eDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dqrte\\Desktop\\git\\GateWayService\\Host\\Host.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dqrte\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\dqrte\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\dqrte\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\dqrte\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\dqrte\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\dqrte\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
